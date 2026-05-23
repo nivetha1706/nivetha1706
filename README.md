@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=52&pause=9999&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Nivetha+I" alt="Nivetha I" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Nivetha+I" alt="Nivetha I" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&pause=9999&color=64748B&center=true&vCenter=true&width=600&height=40&lines=DevOps+Engineer+%E2%80%94+Cloud+%26+Infrastructure" alt="role" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=400&size=22&duration=1&pause=99999&color=64748B&center=true&vCenter=true&width=600&height=40&lines=DevOps+Engineer+%E2%80%94+Cloud+%26+Infrastructure" alt="role" />
 
 <br/>
 
@@ -22,9 +22,7 @@ I automate the path from code to production — building pipelines, managing clo
 <br/>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,kubernetes,jenkins,aws,terraform,github&perline=10" />
-
 </div>
 
 <br/>
@@ -33,15 +31,17 @@ I automate the path from code to production — building pipelines, managing clo
 
 <br/>
 
-**Foundations** &nbsp;&nbsp; Linux · Server Management · Bash Scripting · Networking · Vagrant
+<div align="center">
 
-**Containers** &nbsp;&nbsp; Docker · Kubernetes · Pods · Deployments · Autoscaling · ConfigMaps
+| | |
+|:--|:--|
+| **Foundations** | Linux &nbsp;·&nbsp; Bash Scripting &nbsp;·&nbsp; Server Management &nbsp;·&nbsp; Networking &nbsp;·&nbsp; Vagrant |
+| **Containers** | Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Deployments &nbsp;·&nbsp; Autoscaling &nbsp;·&nbsp; ConfigMaps |
+| **CI / CD** | Jenkins &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; CircleCI &nbsp;·&nbsp; Automated Pipelines |
+| **Cloud** | AWS &nbsp;·&nbsp; IAM &nbsp;·&nbsp; S3 &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; Infrastructure as Code |
+| **Backend** | Python &nbsp;·&nbsp; Flask &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Git Workflows |
 
-**CI / CD** &nbsp;&nbsp; Jenkins · GitHub Actions · CircleCI · Automated Pipelines
-
-**Cloud** &nbsp;&nbsp; AWS · IAM · S3 · Terraform · IaC · Cloud Architecture
-
-**Backend** &nbsp;&nbsp; Python · Flask · REST APIs · MongoDB · Git Workflows
+</div>
 
 <br/>
 
